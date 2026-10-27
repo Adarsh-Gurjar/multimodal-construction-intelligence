@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Multimodal Construction Intelligence Platform
 
 Skill Wallet Capstone Project 1 — Platform ID: `6ac4c98d1dcde6d7857c164`
@@ -48,3 +49,6 @@ The Pollinations action opens its image service in a new browser view. Only use 
 - Pollinations image generation depends on the external service and its availability.
 - Without a Gemini API key, the assistant uses built-in topic-based guidance rather than LLM conversation.
 - Validate with a competent site safety professional, structural engineer, quantity surveyor and local valuation expert before operational use.
+=======
+# multimodal-construction-intelligence
+>>>>>>> 8d9dd7a7c18595e47d670c046cbb8bdaa56ffb30
